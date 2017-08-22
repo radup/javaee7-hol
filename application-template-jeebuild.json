@@ -76,7 +76,7 @@
         "creationTimestamp": null
       },
       "spec": {
-        "dockerImageRepository": "openshift/wildfly-90-centos7"
+        "dockerImageRepository": "openshift/wildfly-101-centos7"
       }
     },
     {
